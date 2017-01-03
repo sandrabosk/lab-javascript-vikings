@@ -1,19 +1,19 @@
-![](https://i.imgur.com/1QgrNNw.png)
+![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
 
-# JS | Object Oriented Programming
+# JS | Vikings *Object Oriented Programming*
 
 ## Introduction
 
 We have learned Object Oriented Programming and Prototypal inheritance with JavaScript. Now we will work with our Viking friends applying all the concepts we just learned today. Let's start with the exercise.
 
-### Requirements
+## Requirements
 
 - [Fork this repo](https://guides.github.com/activities/forking/)
 - Clone this repo into your `~/code/labs`
 - Make sure you use objects and prototypal inheritance during the exercise.
 - We should follow good object oriented principals.
 
-### Submission
+## Submission
 
 - Upon completion, run the following commands
 
@@ -40,7 +40,7 @@ In future weeks of the course we will explain all this concepts deeply. By the m
 
 **Note this is a very big picture about the tools we are going to use in this exercise. We will learn all them all deeply in the future lessons of the course :)**
 
-### Usage
+## Usage
 
 ```bash
 $ cd ~/code/labs/lab-javascript-oop/
@@ -120,4 +120,4 @@ $ mocha
 
 **Happy Coding!!**
 
-![](https://i.imgur.com/fHHEoEj.jpg)
+![Vikings picture](https://i.imgur.com/fHHEoEj.jpg)
