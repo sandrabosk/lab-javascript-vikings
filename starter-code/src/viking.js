@@ -1,28 +1,11 @@
-// //------------------------------------------------------
-// // SOLDIER
-// //------------------------------------------------------
-// function Soldier() {}
-//
-// //------------------------------------------------------
-// // GENERAL
-// //------------------------------------------------------
-// function General() {}
-//
-// //------------------------------------------------------
-// // FOOTVIKING
-// //------------------------------------------------------
-// function FootViking() {}
-//
-// module.exports = {
-//   Soldier:    Soldier,
-//   General:    General,
-//   FootViking: FootViking
-// };
-
+// Soldier
 function Soldier () {}
 
+// Viking
 function Viking () {}
 
+// Saxon
 function Saxon () {}
 
+// War
 function War () {}
