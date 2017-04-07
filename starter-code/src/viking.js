@@ -26,10 +26,3 @@ function Viking () {}
 function Saxon () {}
 
 function War () {}
-
-module.exports = {
-  Soldier: Soldier,
-  Viking:  Viking,
-  Saxon:   Saxon,
-  War:     War
-};
