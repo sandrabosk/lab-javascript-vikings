@@ -69,7 +69,7 @@ We are going to be working with the files inside the `spec` and `src` folders. I
 
 Run the tests with Jasmine is super easy, you just have to open the `SpecRunner.html` file in your browser. You will find something like this:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_efa91dc3a708695262d274908469649c.png)
+![](images/1.png)
 
 It means that right now we have two different tests and just one is passing. We have to implement the code to pass both tests.
 
@@ -93,7 +93,7 @@ function War () {}
 
 In this case, the test says that `Soldiers Should have a number of health`, so we have to write the correct code that accomplishes this test. Once we have implemented the correct code, we can refresh the `SpecRunner.html` page to see how our tests are passing.
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d3f5633180f716941b65b193832b96bd.png)
+![](images/2.png)
 
 ![For the win](https://media.giphy.com/media/nXxOjZrbnbRxS/giphy.gif)
 
@@ -101,7 +101,7 @@ In this case, the test says that `Soldiers Should have a number of health`, so w
 
 Now that we are passing two tests, the next step is to uncomment the next test. To do that, we have to remove the comment from the `spec/VikingSpec.js` file, and refresh the page to see what we have to implement next:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_ce10ddc36ffcf5b9c3235bf882f75b0a.png)
+![](images/3.png)
 
 Once we have checked out that the test is failing, we can implement the code to make it pass. This is how [TDD (Test-driven development)](https://en.wikipedia.org/wiki/Test-driven_development) works. Once you have implemented the code to pass all the tests, the exercise will be done.
 
